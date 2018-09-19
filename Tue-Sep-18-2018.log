@@ -1,0 +1,36 @@
+{"level":"info","message":"Server is up on PORT: 3000"}
+{"level":"info","message":"New Request"}
+{"level":"info","message":"METHOD: GET"}
+{"level":"info","message":"ROUTE: /"}
+{"level":"info","message":"Original URL: /"}
+{"level":"info","message":"Status:200 We have sent the HTML Document to Client"}
+{"level":"info","message":"New Request"}
+{"level":"info","message":"METHOD: GET"}
+{"level":"info","message":"ROUTE: /favicon.ico"}
+{"level":"info","message":"Original URL: /favicon.ico"}
+{"level":"info","message":"Responding with a 404 Status code : NOT FOUND"}
+{"level":"info","message":"New Request"}
+{"level":"info","message":"METHOD: GET"}
+{"level":"info","message":"ROUTE: /cowsay"}
+{"level":"info","message":"Original URL: /cowsay"}
+{"level":"info","message":"Responding with a 404 Status code : NOT FOUND"}
+{"level":"info","message":"New Request"}
+{"level":"info","message":"METHOD: GET"}
+{"level":"info","message":"ROUTE: /api/cowsay"}
+{"level":"info","message":"Original URL: /api/cowsay"}
+{"level":"info","message":"Responding with a 404 Status code : NOT FOUND"}
+{"level":"info","message":"New Request"}
+{"level":"info","message":"METHOD: GET"}
+{"level":"info","message":"ROUTE: /api/cowsay%20q=hello"}
+{"level":"info","message":"Original URL: /api/cowsay%20q=hello"}
+{"level":"info","message":"Responding with a 404 Status code : NOT FOUND"}
+{"level":"info","message":"New Request"}
+{"level":"info","message":"METHOD: GET"}
+{"level":"info","message":"ROUTE: /api/cowsay?text=%22message%22"}
+{"level":"info","message":"Original URL: /api/cowsay?text=%22message%22"}
+{"level":"info","message":"Responding with a 404 Status code : NOT FOUND"}
+{"level":"info","message":"New Request"}
+{"level":"info","message":"METHOD: GET"}
+{"level":"info","message":"ROUTE: /api/cowsay%20%7B%20text:%20%22message%22%20%7D"}
+{"level":"info","message":"Original URL: /api/cowsay%20%7B%20text:%20%22message%22%20%7D"}
+{"level":"info","message":"Responding with a 404 Status code : NOT FOUND"}
